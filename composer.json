@@ -1,5 +1,5 @@
 {
-  "name": "xpressengine-plugin/alice",
+  "name": "khongchi/alice",
   "description": "This Package is Xpressengine Plugin - Alice Theme.",
   "keywords": [
     "xpressengine",
@@ -9,7 +9,7 @@
   ],
   "license": "LGPL-2.1",
   "version": "0.9.4",
-  "type": "xpressengine-plugin",
+  "type": "library",
   "authors": [
     {
       "name": "xpressengine",
